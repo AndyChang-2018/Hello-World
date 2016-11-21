@@ -1,2 +1,3 @@
 # Hello-World
-test programme
+This is my fist Test Programme.
+I'm learning use github.
